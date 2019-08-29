@@ -1,0 +1,14 @@
+FilePath :         C:\Ethereum Smart Contracts\HashMarket\contracts
+Smart Contract to be Tested : hashmarket.sol
+TestCases : 
+1) should set DOB in Date-format(e.g. DD/MM/YYYY) only
+2) should set Name in String format only(No numbers are allowed)
+3) should set name as Vishal
+4) should set DOB as 13/08/2019
+5) bfsak;fak
+6)nkfgsdfkg'
+7) jfgahsgfwipp
+8) vishal is here
+
+
+9) vjkvhjlj
